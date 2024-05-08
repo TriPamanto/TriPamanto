@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <h1 align='center'>
   Hi there 👋 I'm Mohammad Angga Tri Pamanto
 </h1>
@@ -67,6 +69,10 @@ Here are some ideas to get you started:
 
 <p align='center'>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TriPamanto&theme=dark" alt="TriPamanto" />
+</p>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriPamanto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <!--
