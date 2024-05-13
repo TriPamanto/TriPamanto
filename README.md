@@ -62,7 +62,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=TriPamanto&label=Stalker&color=129e00&style=plastic" alt="TriPamanto" />
+<!--   <img src="https://komarev.com/ghpvc/?username=TriPamanto&label=Stalker&color=129e00&style=plastic" alt="TriPamanto" /> -->
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=TriPamanto&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
   <br>
   <!-- <a href="#"><img src="https://badges.pufler.dev/visits/mr94t3z/mr94t3z"></a> total of stalkers. -->
 </p>
