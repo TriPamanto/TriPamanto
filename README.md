@@ -62,8 +62,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-<!--   <img src="https://komarev.com/ghpvc/?username=TriPamanto&label=Stalker&color=129e00&style=plastic" alt="TriPamanto" /> -->
-  
+  <img src="https://komarev.com/ghpvc/?username=TriPamanto&label=Stalker&color=129e00&style=plastic" alt="TriPamanto" />
+<!--   <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=TriPamanto&label=Profile%20Views&color=0&icon=0&pretty=true" />
+  </a> -->
   <br>
   <!-- <a href="#"><img src="https://badges.pufler.dev/visits/mr94t3z/mr94t3z"></a> total of stalkers. -->
 </p>
@@ -75,10 +77,8 @@ Here are some ideas to get you started:
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriPamanto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=TriPamanto&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
+
+
 <!--
 <details>
   <summary>📃 Resume</summary>
