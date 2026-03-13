@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  💻 My workspace<br/><br/>
+  💻 My Device <br/><br/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HP&color=000000&logo=Windows&logoColor=FFFFFF&label=WINDOWS" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chip&color=000000&logo=AMD&logoColor=FFFFFF&label=RYZEN 5" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ram&color=000000&logo=Ram&logoColor=FFFFFF&label=16GB" />
